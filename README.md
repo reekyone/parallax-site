@@ -1,4 +1,4 @@
-# parallax-site-example
+# parallax-site
 
 To view this project, click the green Code button and download ZIP.
 
